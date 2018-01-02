@@ -2,6 +2,10 @@
   "name": "node_image_resizer",
   "version": "1.0.0",
   "description": "Resizes given image(url) to desired size",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nirdosh17/node_image_resizer.git"
+  },
   "main": "server.js",
   "scripts": {
     "dev": "nodemon server.js",

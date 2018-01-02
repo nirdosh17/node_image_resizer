@@ -8,7 +8,7 @@ const app = express();
 // load all routes
 require('./app/routes/index.js')(app, {});
 
-const port = 3020;
+const port = 3000;
 
 app.listen(port, () => {
   console.log('Image Resizer app booted on port ' + port)
