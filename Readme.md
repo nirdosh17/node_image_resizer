@@ -10,4 +10,4 @@ A simple Node API for resizing images.
 2. Go to project directory
 3. Run `npm install` to install all dependent libraries
 4. Run `npm start` to boot the app in port `3000`
-5. Now, Make GET request to the resize API: `http://localhost:3000/resize?image_url={{https://sample_image.jpg}}&size={{number}}`
+5. Now, Make GET request to the resize API: `http://localhost:3000/resize?image_url={{https://sample_image.jpg}}&size={{500}}`
